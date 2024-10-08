@@ -29,15 +29,14 @@ O jogo escolhe aleatoriamente um número entre 1 e 5000. O jogador precisa adivi
     ```
 2. Abra o arquivo `index.html` em qualquer navegador web.
 3. Tente adivinhar o número secreto!
+4. Teste o jogo [Aqui](https://y8g4gl.csb.app/)
 
-## 📸 Imagem de Pré-visualização
-![Pré-visualização do jogo](./img/screenshot.png)
 
 ## 📋 Funcionalidades Futuras
 - Modo multiplayer.
 - Opção de escolher intervalos de números menores ou maiores.
 - Adicionar um ranking para jogadores que acertarem em menos tentativas.
 
-## 🧑‍💻 Autor
+## 👨🏿‍💻 Autor
 Desenvolvido por [Gabriel Torres](https://github.com/GabrielStronger).
 
